@@ -1,0 +1,14 @@
+
+w
+java:S1104"ZMake outputTextArea a static final constant or non-public and provide accessors if needed.(ÅÔ¾ï8©™ÅÕÁ1
+Q
+java:S1444"4Make this "public static outputTextArea" field final(ÅÔ¾ï8ª™ÅÕÁ1
+S
+java:S26967"6Make the enclosing method "static" or remove this set.(Æ¦êã8Ş™ÅÕÁ1
+G
+java:S2140‚")Use "java.util.Random.nextInt()" instead.(İãÏÕ8ì™ÅÕÁ1
+h
+java:S1128
+"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ8ù™ÅÕÁ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ù™ÅÕÁ1
